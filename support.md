@@ -39,7 +39,7 @@ Yes. ExoKeeper is designed to work completely offline. No internet connection is
 
 We value your feedback! If you encounter any issues or have suggestions for improving ExoKeeper, please reach out to us:
 
-**Email:** exokeeper@outlook.com
+**Email:** oskar7@qq.com
 
 When reporting a bug, please include:
 - Your device model and iOS version
@@ -50,4 +50,4 @@ When reporting a bug, please include:
 ## Contact
 
 **Developer:** Nan Zhang
-**Email:** exokeeper@outlook.com
+**Email:** oskar7@qq.com
